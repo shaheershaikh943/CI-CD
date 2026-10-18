@@ -1,5 +1,5 @@
-python 3.12
 fastapi
-pydantic
 uvicorn
+pytest
+pydantic
 httpx
