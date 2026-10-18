@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-=======
 python
->>>>>>> a2ace79a1b787778b090d43d29284a7c7f624e04
 fastapi
 uvicorn
-<<<<<<< HEAD
 pytest
 pydantic
 httpx
-=======
-httpx
->>>>>>> a2ace79a1b787778b090d43d29284a7c7f624e04
